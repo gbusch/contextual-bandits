@@ -29,8 +29,4 @@ Reward is given after every step, value - however - has to be estimated taking i
 
 ### Policy
 
-A *policy* is a mapping of the perceived state of the environment to actions that should be taken when in this state. 
-
-
-## The $k$-armed Bandit Problem
-
+A *policy* is a mapping of the perceived state of the environment to actions that should be taken when in this state.
